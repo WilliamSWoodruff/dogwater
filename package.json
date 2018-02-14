@@ -22,8 +22,8 @@
     "orm"
   ],
   "dependencies": {
-    "hoek": "4.x.x",
-    "joi": "10.x.x"
+    "hoek": "5.0.3",
+    "joi": "13.0.0"
   },
   "peerDependencies": {
     "hapi": ">=10 <17",
